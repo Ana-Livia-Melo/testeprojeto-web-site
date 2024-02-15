@@ -1,0 +1,63 @@
+body{
+    background-color: #ec98c238 ;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    background-color: #ADA9B7;
+    width: 100%;
+    height: auto;
+}
+
+
+footer{
+    display: flex;
+    justify-content: center;
+    background-color: #ADA9B7;
+    bottom: 0px;
+    width: 100%;
+}
+
+.ped{
+    display: flex;
+    justify-content: center;
+}
+
+.contato{
+    color: #ffffff;
+    background-color: cornflowerblue;
+    border-radius: 30px;
+    width: 250px;
+    height: 80px;
+    font-size: 25px;
+}
+
+.instagram{
+    background-color: rgb(199, 114, 185);
+    color: #ffffff;
+    border-radius: 30px;
+    width: 250px;
+    height: 80px;
+    font-size: 25px;
+}
+
+
+.h3{
+    color: #9191e9;
+    font-family: "Poetsen One", Sans-serif;
+    font-size: 43px;
+    font-weight: 400;
+    line-height: 48px;
+    display: flex;
+    justify-content: center;
+}
+
+
+.pcont{
+    text-align: center;
+    font-size: 30px;
+    margin: 0;
+    padding-top: 10px;
+    color: #91b0e9;
+}

@@ -1,0 +1,49 @@
+
+body{
+    background-color: #ccc8d67a ;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    background-color: #ADA9B7;
+    width: 100%;
+    height: 10;
+}
+
+
+footer{
+    display: flex;
+    justify-content: center;
+    background-color: #ADA9B7;
+    bottom: 0px;
+    width: 100%;
+}
+
+img{
+    width:10%;
+}
+
+h1{
+    color: rgba(109, 189, 189, 0.822);
+    font-family:"Poetsen One", Sans-serif ;
+    display: flex;
+    justify-content: center;
+}
+
+h2{
+    color: rgb(182, 115, 162);
+    font-family:"Poetsen One", Sans-serif ;
+    display: flex;
+    justify-content: center;
+}
+
+.imgfo{
+    width: 300px;
+    height: 250px;
+}
+
+.imglo{
+    display: flex;
+    justify-content: center;
+}
